@@ -18,6 +18,7 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
@@ -50,6 +51,7 @@ plt.ylabel("Marks Scored")
 plt.title("Simple Linear Regression (Using sklearn)")
 plt.legend()
 plt.show()
+
 Developed by: MADHU .P
 RegisterNumber: 212225040215
 */
