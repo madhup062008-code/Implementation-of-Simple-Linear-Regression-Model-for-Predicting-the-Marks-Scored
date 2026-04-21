@@ -50,8 +50,8 @@ plt.ylabel("Marks Scored")
 plt.title("Simple Linear Regression (Using sklearn)")
 plt.legend()
 plt.show()
-Developed by: 
-RegisterNumber:  
+Developed by: MADHU .P
+RegisterNumber: 212225040215
 */
 ```
 
